@@ -31,20 +31,11 @@ Learn SQL query fundamentals by working through bite-sized tutorials on [SQLBolt
 - [ ] [SQLZOO](http://sqlzoo.net/) to yield the desired data.
 - [ ] [LeetCode](https://leetcode.com/problemset/database/)
 
-To solidify your conceptual knowledge of databases, visit [HackerRank](https://www.hackerrank.com/domains/databases/relational-algebra) to build foundational knowledge for working with relational databases. These challenges also expose you to non-relational/NoSQL databases as well as the theoretical underpinnings of relational databases.
 
-Work on a subset of "Easy" and "Medium" level problems in different domains, including:
-- Relational Algebra
-- Database Normalization
-- SQL query construction  
-
-**Exercises to Reinforce Conceptual Knowledge**
-- [ ] Complete 10 [Relational Algebra challenges](https://www.hackerrank.com/domains/databases/relational-algebra/difficulty/all/page/1) on HackerRank
-- [ ] Complete 5 [Database Normalization challenges](https://www.hackerrank.com/domains/databases/database-normalization/difficulty/all/page/1) on HackerRank
 
 Run your responses against the automated test suites provided by LeetCode and HackerRank while using SQL reference materials to construct your answers.
 
-- [ ] Complete the exercises under the "Assessments: More involved examples for confident users" subtopic on [SQLZOO](http://sqlzoo.net/).
+
 - [ ] Complete 10 TOTAL "Easy" and "Medium" level [database challenges](https://leetcode.com/problemset/database/) on LeetCode. Prerequisite knowledge: the **SQL Foundations** specifications listed above
 
 ## Helpful resources
